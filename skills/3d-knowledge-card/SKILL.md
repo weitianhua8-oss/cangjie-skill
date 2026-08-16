@@ -21,43 +21,59 @@ Before generating any image:
    - knowledge-tree connection
 
 2. Build knowledge architecture:
-   - Decide whether content needs multiple cards.
+   - Decide the number of cards according to knowledge structure.
    - Never compress all meanings into one crowded image.
-   - Complex words follow the BE model.
+   - Complex words must follow the BE model.
 
-## BE Model Structure
+## Three-Level Card Structure (Mandatory)
+
+Every English word knowledge card set must be divided into three core layers and produced as three separate images:
 
 ### Card 1: Core Essence
-Answer: What is this word fundamentally?
+Answer:
 
+> What is this word fundamentally?
+
+Content:
+- core origin
 - one central metaphor
 - one spatial relationship
 - one memory sentence
 
 ### Card 2: Meaning Growth
-Answer: How do different meanings grow from the core?
+Answer:
 
-- show branches from the core image
+> How do different meanings grow from the core?
+
+Content:
+- meaning branches from the core image
+- logical expansion path
 - avoid direct Chinese meaning lists
 
 ### Card 3: Real Application
-Answer: How is it used?
+Answer:
 
+> How is it used in real situations?
+
+Content:
 - common scenes
 - example sentences
 - typical patterns
+- practical usage
+
+Additional cards may be added only when necessary:
 
 ### Card 4: Boundary Comparison
-When needed:
-
 - compare similar words
 - explain why English separates them
 
 ### Card 5: Knowledge Network
-Connect related concepts and vocabulary.
+- connect related concepts and vocabulary
 
 ## Visual Rules
 
+- Image ratio should be selected according to knowledge structure.
+- Do not force every card into the same aspect ratio.
 - Warm white background
 - 3D rounded cards
 - Dark blue titles
@@ -70,6 +86,25 @@ Connect related concepts and vocabulary.
 - Use boundaries for differences
 - Use state boxes for states
 - Use action scenes for ongoing processes
+
+## Text Quality Rules
+
+Priority order:
+
+1. Clarity
+2. Logical structure
+3. Visual understanding
+4. Information completeness
+
+Forbidden:
+- tiny text
+- excessive information density
+- unclear handwriting
+- putting all knowledge into one image
+
+If content exceeds readable space:
+
+> Add another card instead of reducing font size.
 
 ## Character Rules
 Characters are semantic helpers, not decoration.
@@ -91,8 +126,9 @@ Use pointing gestures with index finger only.
 Confirm:
 - English thinking analysis completed
 - core image selected
-- knowledge structure separated
-- text amount is appropriate
+- three-level structure separated
+- image ratio suitable
+- text readable on mobile
 - no tiny unreadable text
 - examples match the concept
 - visual metaphor matches the logic
